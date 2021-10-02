@@ -1,0 +1,39 @@
+{
+  "dna": "c3b0398d9d9e9519d802ae2fb7c5416f8f12e1f9",
+  "name": "#19",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "https://hashlips/nft/19.png",
+  "edition": 19,
+  "date": 1632794139792,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "BackPink"
+    },
+    {
+      "trait_type": "SkullBase",
+      "value": "SkullBaseBlack"
+    },
+    {
+      "trait_type": "Flower",
+      "value": "FlowerCollarPink"
+    },
+    {
+      "trait_type": "Sockets",
+      "value": "RightEyeSocket"
+    },
+    {
+      "trait_type": "LeftEye",
+      "value": "LeftEyeSocket"
+    },
+    {
+      "trait_type": "RightEye",
+      "value": "RightEyeHeartPop"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "NosePop"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

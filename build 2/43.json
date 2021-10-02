@@ -1,0 +1,39 @@
+{
+  "dna": "30e78a99e3b250af260cf8b841322d6413484b32",
+  "name": "#43",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "https://hashlips/nft/43.png",
+  "edition": 43,
+  "date": 1632794141728,
+  "attributes": [
+    {
+      "trait_type": "Back",
+      "value": "BackPink"
+    },
+    {
+      "trait_type": "SkullBase",
+      "value": "SkullBaseBlack"
+    },
+    {
+      "trait_type": "Flower",
+      "value": "FlowerCollarPink"
+    },
+    {
+      "trait_type": "Sockets",
+      "value": "RightEyeSocket"
+    },
+    {
+      "trait_type": "LeftEye",
+      "value": "LeftEyeHeartBlue"
+    },
+    {
+      "trait_type": "RightEye",
+      "value": "RightEyeHeartPop"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
