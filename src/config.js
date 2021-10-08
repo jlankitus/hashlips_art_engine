@@ -5,21 +5,22 @@ const baseUri = "https://hashlips/nft";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 6969,
+    growEditionSizeTo: 69,
     layersOrder: [
-      { name: "Back" },
-      { name: "Martian" },
-      { name: "SkullBase" },
-      { name: "Flower" },
-      { name: "Sockets" },
-      { name: "LeftEye" },
-      { name: "RightEye" },
-      { name: "Nose" },
-      { name: "Teeth" },
-      { name: "Tooth" },
-      { name: "Forehead" },
-      { name: "SkullDecor" },
-      { name: "Mandala" },
+      { name: "Back_A" },
+      { name: "Flower_B" },
+      { name: "SkullBase_C" },
+      { name: "Mandala_D" },
+      { name: "Teeth_E" },
+      { name: "Tooth_F" },
+      { name: "Sockets_G" },
+      //{ name: "LeftEye" },
+      // { name: "RightEye" },
+      // { name: "Nose" },
+      
+      // { name: "Forehead" },
+      // { name: "SkullDecor" },
+      // { name: "Mandala" },
     ],
   },
 ];
